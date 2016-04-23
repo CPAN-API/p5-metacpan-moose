@@ -1,0 +1,4 @@
+.build
+local
+/MetaCPAN-Moose*
+.tidyall.d
