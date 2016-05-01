@@ -1,4 +1,4 @@
-requires "Import::Into" => "0";
+requires "Import::Into" => "1.002005";
 requires "Moose" => "2.1605";
 requires "MooseX::StrictConstructor" => "0.19";
 requires "namespace::autoclean" => "0.28";
