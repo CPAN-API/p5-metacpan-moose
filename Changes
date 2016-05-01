@@ -2,5 +2,8 @@ Revision history for MetaCPAN-Moose
 
 {{$NEXT}}
 
+0.000002  2016-05-01 18:08:00+01:00 Europe/London
+    - updated prereqs (Import::Into" => 1.002005).
+
 0.000001  2016-04-23 23:03:22+01:00 Europe/London
     - Initial release.
