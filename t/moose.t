@@ -1,6 +1,8 @@
 use strict;
 use warnings;
 
+## no critic (Modules::RequireExplicitPackage,Modules::ProhibitMultiplePackages)
+
 use MetaCPAN::Moose;
 use Test::Fatal qw( exception );
 use Test::More;
@@ -10,6 +12,7 @@ use MetaCPAN::Moose;
 
 use Scalar::Util qw( blessed );
 
+## no critic (NamingConventions::Capitalization)
 package main;
 
 ok( Foo->new, 'compiles' );

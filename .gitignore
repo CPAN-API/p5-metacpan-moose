@@ -1,4 +1,6 @@
 .build
 local
 /MetaCPAN-Moose*
+*.sw*
 .tidyall.d
+tidyall.ERR

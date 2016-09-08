@@ -1,6 +1,7 @@
+package MetaCPAN::Moose;
+
 use strict;
 use warnings;
-package MetaCPAN::Moose;
 
 use Import::Into;
 
