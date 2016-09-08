@@ -1,8 +1,7 @@
 Revision history for MetaCPAN-Moose
 
 {{$NEXT}}
-
-0.000002  2016-05-01 19:22:55+02:00 Europe/Amsterdam
+    - Fixes repository URL in metadata.
 
 0.000002  2016-05-01 18:08:00+01:00 Europe/London
     - updated prereqs (Import::Into" => 1.002005).
